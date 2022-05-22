@@ -30,7 +30,7 @@ I'm extremely interested in AI technology and I hope to continue exploring it in
 ## Notes
 * The collision mechanism in the game might look like it's not 100% accurate, but this is due to the high framerate - there's a small gap between the front to the back end so the user might see a collision when in actuality there wasn't one.
 * It might initially seem like the birds make no progress whatsoever, but I assure you they'll get there eventually.
-[<img align="Center" alt="Proof It Works" src="https://i.gyazo.com/9b4fa920eefacb905577905810c33fee.png"/>]
+<img align="Center" alt="Proof It Works" src="https://i.gyazo.com/9b4fa920eefacb905577905810c33fee.png"/>
 
 ## Credits
 
